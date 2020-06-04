@@ -15,8 +15,8 @@ Index Terms:  Q-learning, Deep Q-Learning, Double Deep Q-Learning, Dueling Doubl
 
 <br><br>
 
-<img src="https://github.com/tgalala/Reinforcement-Learning-Q-Learning-Applications/blob/master/images/algorithms1.jpg?raw=true" height="300">
+<img src="https://github.com/tgalala/Reinforcement-Learning-Q-Learning-Applications/blob/master/images/algorithms1.jpg?raw=true" width="800">
 <Br>
-<img src="https://github.com/tgalala/Reinforcement-Learning-Q-Learning-Applications/blob/master/images/algorithms2.jpg?raw=true" height="300"> 
+<img src="https://github.com/tgalala/Reinforcement-Learning-Q-Learning-Applications/blob/master/images/algorithms2.jpg?raw=true" width="810"> 
 
 
