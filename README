@@ -10,8 +10,3 @@ performance. We achieved our best results with Dueling Double DQN by solving the
 surpassing our expectations. 
 
 Index Terms:  Q-learning, Deep Q-Learning, Double Deep Q-Learning, Dueling Double Deep Q-Learning, Taxi V3, Lunar Landing V2
-
-
-
-![](https://github.com/tgalala/Reinforcement-Learning-Q-Learning-Applications/blob/master/images/rl.jpg?raw=true)
-<img src="https://github.com/tgalala/Reinforcement-Learning-Q-Learning-Applications/blob/master/images/rl.jpg?raw=true">
