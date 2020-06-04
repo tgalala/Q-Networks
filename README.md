@@ -1,5 +1,5 @@
 # Q Learning Applications: Basic and Advanced Applications Using OpenAI Environments
-
+OpenAI Gym environments Taxi v_3 & Lunar_Lander v_2
 <br><center>
 <img src="https://github.com/tgalala/Reinforcement-Learning-Q-Learning-Applications/blob/master/images/rl.jpg?raw=true" height="200">
 </center>
