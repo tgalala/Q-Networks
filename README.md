@@ -1,8 +1,8 @@
 # Q Learning Applications: Basic and Advanced Applications Using OpenAI Environments
 
-<Br>
-![](images/rl.jpg)
-<br>
+<center>
+<img src="https://github.com/tgalala/Reinforcement-Learning-Q-Learning-Applications/blob/master/images/rl.jpg?raw=true" height="200">
+</center>
   
 This work presenst the methods and tools used to build and apply Q-learning and DQN algorithms (and their variations) 
 in two separate OpenAI Gym environments (Taxi v_3, Lunar_Lander v_2) to demonstrate their effectiveness as model 
@@ -15,6 +15,8 @@ Index Terms:  Q-learning, Deep Q-Learning, Double Deep Q-Learning, Dueling Doubl
 
 <br><br>
 
-<img src="https://github.com/tgalala/Loan-Defaults-Machine-Learning-2-Algorithm-Poster/blob/master/images/roc.png?raw=true" height="300">
+<img src="https://github.com/tgalala/Reinforcement-Learning-Q-Learning-Applications/blob/master/images/algorithms1.jpg?raw=true" height="300">
+<Br>
+<img src="https://github.com/tgalala/Reinforcement-Learning-Q-Learning-Applications/blob/master/images/algorithms2.jpg?raw=true" height="300"> 
 
 
