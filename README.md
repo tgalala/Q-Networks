@@ -4,8 +4,7 @@
 <b>Language</b> <br>
 Python
 
-<b>OpenAI Gym environments</b>
-
+<b>OpenAI Gym environments</b><br>
  Taxi v_3 & Lunar_Lander v_2
 
 <br>
@@ -18,7 +17,6 @@ This work presenst the methods and tools used to build and apply Q-learning and 
 </center>
 
 <b>Index Terms</b> <br>
-
 Q-learning, Deep Q-Learning, Double Deep Q-Learning, Dueling Double Deep Q-Learning, Taxi V3, Lunar Landing V2
 
 <br><br>
