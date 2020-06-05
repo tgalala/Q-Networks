@@ -4,7 +4,7 @@
 <b>Language</b> <br>
 Python
 
-<b>OpenAI Gym environments</b> <br>
+<b>OpenAI Gym environments</b>
 
  Taxi v_3 & Lunar_Lander v_2
 
